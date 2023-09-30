@@ -1,8 +1,8 @@
 {
     "0":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
-        "NodeOnboarded": {"emitter":"0xefaC6E7FAd998223573b946D69321b581595f2F0", "handler":"OnNodeOnboarded"},
-        "NodeRetired": {"emitter": "0xefaC6E7FAd998223573b946D69321b581595f2F0", "handler":"OnNodeRetired"},
+        "NodeOnboarded": {"emitter":"0x981DB3803fc53592b6340ed5754793f242f0ce2A", "handler":"OnNodeOnboarded"},
+        "NodeRetired": {"emitter": "0x981DB3803fc53592b6340ed5754793f242f0ce2A", "handler":"OnNodeRetired"},
         "StakeCreated": {"emitter":"0xeeff62628dcD8E8AF2aA376C718f54602a54B5c5", "handler":"OnStakeCreated"},
         "StakeRemoved": {"emitter":"0xeeff62628dcD8E8AF2aA376C718f54602a54B5c5", "handler":"OnStakeRemoved"},
         "StakeChanged": {"emitter":"0xeeff62628dcD8E8AF2aA376C718f54602a54B5c5", "handler":"OnStakeChanged"},
