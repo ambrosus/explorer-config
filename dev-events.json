@@ -3,19 +3,19 @@
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
         "NodeOnboarded": {"emitter":"0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeOnboarded"},
         "NodeRetired": {"emitter": "0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeRetired"},
-        "StakeCreated": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeCreated"},
-        "StakeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeRemoved"},
-        "StakeChanged": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeChanged"},
-        "TopListNodeAdded": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnTopListNodeAdded"},
-        "TopListNodeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnTopListNodeRemoved"}
+        "StakeCreated": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeCreated"},
+        "StakeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeRemoved"},
+        "StakeChanged": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeChanged"},
+        "TopListNodeAdded": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnTopListNodeAdded"},
+        "TopListNodeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnTopListNodeRemoved"}
     },
     "1":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
-        "Reward": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnReward"},
-        "StakeCreated": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeCreated"},
-        "StakeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeRemoved"},
-        "StakeChanged": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnStakeChanged"},
-        "TopListNodeAdded": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnTopListNodeAdded"},
-        "TopListNodeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf ", "handler":"OnTopListNodeRemoved"}
+        "Reward": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnReward"},
+        "StakeCreated": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeCreated"},
+        "StakeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeRemoved"},
+        "StakeChanged": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnStakeChanged"},
+        "TopListNodeAdded": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnTopListNodeAdded"},
+        "TopListNodeRemoved": {"emitter":"0x97464F18b71cbF5f42B134CE48b47341f4B4fddf", "handler":"OnTopListNodeRemoved"}
     }
 }
