@@ -1,6 +1,8 @@
 {
     "0":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
+        "TransferSingle": {"emitter":"*", "handler":"OnTransferSingle"},
+        "TransferBatch": {"emitter":"*", "handler":"OnTransferBatch"},
         "NodeOnboarded": {"emitter":"0x8B1d3A306C3738fc992DD4AFaF8aFF7947Da0561", "handler":"OnNodeOnboarded"},
         "NodeRetired": {"emitter": "0x8B1d3A306C3738fc992DD4AFaF8aFF7947Da0561", "handler":"OnNodeRetired"},
         "StakeCreated": {"emitter":"0x4Ee5e950f19E7B87052B92a2F6D001ec4A9F41f5", "handler":"OnStakeCreated"},
@@ -11,6 +13,8 @@
     },
     "1":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
+        "TransferSingle": {"emitter":"*", "handler":"OnTransferSingle"},
+        "TransferBatch": {"emitter":"*", "handler":"OnTransferBatch"},
         "Reward": {"emitter":"0x4Ee5e950f19E7B87052B92a2F6D001ec4A9F41f5", "handler":"OnReward"},
         "StakeCreated": {"emitter":"0x4Ee5e950f19E7B87052B92a2F6D001ec4A9F41f5", "handler":"OnStakeCreated"},
         "StakeRemoved": {"emitter":"0x4Ee5e950f19E7B87052B92a2F6D001ec4A9F41f5", "handler":"OnStakeRemoved"},
