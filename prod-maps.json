@@ -1,0 +1,10 @@
+{
+    "tokens": [
+        {"address":"0xE984ACe36F2B6f10Fec8dd6fc1bB19c7b1D2F2c6","nane":"Ganymede Pool Token","symbol":"GPT","decimals":18,"type":"ERC-20"},
+        {"address":"0xEB8386a50Edd613cc43f061E9C5A915b0443C5d4","nane":"Plutus Pool Token","symbol":"PPT","decimals":18,"type":"ERC-20"},
+        {"address":"0x322269e52800e5094c008f3b01A3FD97BB3C8f5D","nane":"Hera Pool Token","symbol":"HPT","decimals":18,"type":"ERC-20"}
+    ],
+    "calls": [
+        {"id":"c33fb877","filter":[],"name":"ValidatorSet::process"}
+    ]
+}
