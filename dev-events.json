@@ -5,21 +5,21 @@
         "TransferBatch": {"emitter":"*", "handler":"OnTransferBatch"},
         "NodeOnboarded": {"emitter":"0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeOnboarded"},
         "NodeRetired": {"emitter": "0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeRetired"},
-        "StakeCreated": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeCreated"},
-        "StakeRemoved": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeRemoved"},
-        "StakeChanged": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeChanged"},
-        "TopListNodeAdded": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnTopListNodeAdded"},
-        "TopListNodeRemoved": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnTopListNodeRemoved"}
+        "StakeCreated": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeCreated"},
+        "StakeRemoved": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeRemoved"},
+        "StakeChanged": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeChanged"},
+        "TopListNodeAdded": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnTopListNodeAdded"},
+        "TopListNodeRemoved": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnTopListNodeRemoved"}
     },
     "1":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
         "TransferSingle": {"emitter":"*", "handler":"OnTransferSingle"},
         "TransferBatch": {"emitter":"*", "handler":"OnTransferBatch"},
-        "Reward": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnReward"},
-        "StakeCreated": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeCreated"},
-        "StakeRemoved": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeRemoved"},
-        "StakeChanged": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnStakeChanged"},
-        "TopListNodeAdded": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnTopListNodeAdded"},
-        "TopListNodeRemoved": {"emitter":"0x8e21c4FD0FBEb51484272a9DaA626740B3817e48", "handler":"OnTopListNodeRemoved"}
+        "Reward": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnReward"},
+        "StakeCreated": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeCreated"},
+        "StakeRemoved": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeRemoved"},
+        "StakeChanged": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnStakeChanged"},
+        "TopListNodeAdded": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnTopListNodeAdded"},
+        "TopListNodeRemoved": {"emitter":"0x585896742516DF0703D72018E5c049D2C293718F", "handler":"OnTopListNodeRemoved"}
     }
 }
