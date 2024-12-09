@@ -5,6 +5,7 @@
         {"address":"0x322269e52800e5094c008f3b01A3FD97BB3C8f5D","name":"Hera Pool Token","symbol":"HPT","decimals":18,"type":"ERC-20"}
     ],
     "calls": [
-        {"id":"c33fb877","filter":[],"name":"ValidatorSet::process"}
+        {"id":"c33fb877","filter":[],"name":"ValidatorSet::process"},
+        {"id":"57c3c9fb","filter":[],"name":"Fees::report"}
     ]
 }
