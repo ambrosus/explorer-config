@@ -5,11 +5,11 @@
         "TransferBatch": {"emitter":"*", "handler":"OnTransferBatch"},
         "NodeOnboarded": {"emitter":"0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeOnboarded"},
         "NodeRetired": {"emitter": "0x55F80a518e4deA4e4408F6eeE053E069495b8716", "handler":"OnNodeRetired"},
-        "StakeCreated": {"emitter":"0xB17eEc1d977bea26c67c8Be86DF98C33a21F7fE9", "handler":"OnStakeCreated"},
-        "StakeRemoved": {"emitter":"0xB17eEc1d977bea26c67c8Be86DF98C33a21F7fE9", "handler":"OnStakeRemoved"},
-        "StakeChanged": {"emitter":"0xB17eEc1d977bea26c67c8Be86DF98C33a21F7fE9", "handler":"OnStakeChanged"},
-        "TopListNodeAdded": {"emitter":"0xB17eEc1d977bea26c67c8Be86DF98C33a21F7fE9", "handler":"OnTopListNodeAdded"},
-        "TopListNodeRemoved": {"emitter":"0xB17eEc1d977bea26c67c8Be86DF98C33a21F7fE9", "handler":"OnTopListNodeRemoved"}
+        "StakeCreated": {"emitter":"0xc2fCf18eCFDEf92393552f1016470F1F4059580c", "handler":"OnStakeCreated"},
+        "StakeRemoved": {"emitter":"0xc2fCf18eCFDEf92393552f1016470F1F4059580c", "handler":"OnStakeRemoved"},
+        "StakeChanged": {"emitter":"0xc2fCf18eCFDEf92393552f1016470F1F4059580c", "handler":"OnStakeChanged"},
+        "TopListNodeAdded": {"emitter":"0xc2fCf18eCFDEf92393552f1016470F1F4059580c", "handler":"OnTopListNodeAdded"},
+        "TopListNodeRemoved": {"emitter":"0xc2fCf18eCFDEf92393552f1016470F1F4059580c", "handler":"OnTopListNodeRemoved"}
     },
     "1":{
         "Transfer": {"emitter":"*", "handler":"OnTransfer"},
